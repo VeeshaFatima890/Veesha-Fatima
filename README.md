@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veeshafatima890" alt="veeshafatima890" /></a> </p>
 
-- 🔭 I’m currently working on **IoT Intrusion Detection System (IDS)**
-
 - 🌱 I’m currently learning **JAVA ,Python ,SQL ,R programming**
 
 - 👨‍💻 All of my projects are available at [github.com/VeeshaFatima890](github.com/VeeshaFatima890)
