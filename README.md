@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA ,Python ,SQL ,R programming**
 
-- 👨‍💻 All of my projects are available at [github.com/VeeshaFatima890](github.com/VeeshaFatima890)
+- 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
 
 - 📫 How to reach me **veeshafatima@gmail.com**
 
