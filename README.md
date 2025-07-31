@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Veesha Fatima</h1>
 <h3 align="center">I'm passionate about building intelligent, scalable, and impactful software solutions .I thrive on solving real-world challenges through clean and efficient code. I'm always eager to learn, collaborate, and innovate with emerging technologies.</h3>
 
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veeshafatima890" alt="veeshafatima890" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA ,Python ,SQL ,R programming**
