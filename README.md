@@ -13,8 +13,6 @@
 - 🌱 I’m currently learning **JAVA ,Python ,SQL ,R programming**
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
-
-<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **veeshafatima@gmail.com**
 
 
