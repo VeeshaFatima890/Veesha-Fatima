@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veesha Fatima</h1>
-<h3 align="center">I'm passionate about building intelligent, scalable, and impactful software solutions .I thrive on solving real-world challenges through clean and efficient code. I'm always eager to learn, collaborate, and innovate with emerging technologies.</h3>
+<h3 align="center">My focus is on about building intelligent, scalable, and impactful software solutions .I thrive on solving real-world challenges through clean and efficient code. I'm always eager to learn, collaborate, and innovate with emerging technologies.</h3>
 
 
 
