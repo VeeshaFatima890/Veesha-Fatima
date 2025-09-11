@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA ,Python ,SQL ,R programming**
+- 🌱 I’m currently learning **JAVA ,Python ,SQL ,R ,Power BI ,Looker Studio **
 
 - 👨‍💻 All of my projects are available at https://github.com/VeeshaFatima890
 - 📫 How to reach me **veeshafatima@gmail.com**
